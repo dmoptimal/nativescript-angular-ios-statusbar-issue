@@ -1,7 +1,10 @@
 {
   "name": "project-name",
   "nativescript": {
-    "id": "org.nativescript.projectname"
+    "id": "org.nativescript.projectname",
+    "tns-ios": {
+      "version": "6.5.0"
+    }
   },
   "version": "0.0.0",
   "scripts": {
